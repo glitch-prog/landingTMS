@@ -1,1 +1,7 @@
-/* No CSS *//*# sourceMappingURL=components-dir.css.map */
+@import url(d:\TeachMeSkills\html\task4\scss\components\a.css);
+.container {
+  width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*# sourceMappingURL=components-dir.css.map */
