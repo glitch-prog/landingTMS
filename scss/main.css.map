@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "abstracts/abstracts-dir.scss",
+        "abstracts/fonts.scss",
+        "abstracts/mixins.scss",
+        "abstracts/variables.scss",
+        "abstracts/functions.scss",
+        "base/base-dir.scss",
+        "components/components-dir.scss",
+        "layouts/layouts-dir.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
