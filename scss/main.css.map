@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "ASCA,OAAO,CAAP,sDAAO;AFDP,AAAA,IAAI;AACJ,CAAC,CAAC;EACA,UAAU,EAAE,UAAU;EACtB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACX;;AGLD,AAAA,UAAU,CAAC;EACT,KAAK,EAAE,MAAM;EACb,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;CACnB",
+    "mappings": "AOAA,AAAA,IAAI;AACJ,CAAC,CAAC;EACA,UAAU,EAAE,UAAU;EACtB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACX;;AGLD,AAAA,UAAU,CAAC;EACT,KAAK,EAAE,MAAM;EACb,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;CACnB;;ACJD,AAAA,CAAC,CAAC;EACA,eAAe,EAAE,IAAI;EACrB,KAAK,EPFC,OAAO;COGd;;AAED,AAAA,EAAE,CAAC;EACD,OAAO,EAAE,IAAI;CACd;;AAED,AAAA,aAAa,CAAC;EACZ,SAAS,EAAE,KAAK;CACjB;;AAED,AAAA,aAAa,CAAC,EAAE,CAAC;EACf,UAAU,EAAE,IAAI;CACjB;;ACfD,AAAA,QAAQ,CAAC;EACP,OAAO,EAAE,IAAI;CACd",
     "sources": [
         "main.scss",
         "abstracts/abstracts-dir.scss",
@@ -13,6 +13,8 @@
         "base/typography.scss",
         "components/components-dir.scss",
         "components/container.scss",
+        "components/list.scss",
+        "components/wrapper.scss",
         "layouts/layouts-dir.scss"
     ],
     "names": [],

@@ -3,6 +3,14 @@ a {
   color: $black;
 }
 
+ul {
+  display: flex;
+}
+
+.header__menu {
+  max-width: 525px;
+}
+
 .header__menu ul {
   list-style: none;
 }
