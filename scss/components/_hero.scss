@@ -2,14 +2,15 @@
   background: $pink;
 }
 
-.hero_title {
+.hero__title {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 107px 0;
+  margin-bottom: 108px;
 }
 
-.hero_title h1 {
+.hero__title h1 {
   margin-bottom: 18px;
 }

@@ -1,4 +1,21 @@
 @font-face {
   font-family: 'Work Sans';
-  src: url(/assets/fonts/work_sans/WorkSans-Italic-VariableFont_wght.ttf);
+  src: url(/assets/fonts/work_sans/WorkSans-Italic-VariableFont_wght.woff2),
+    url(/assets/fonts/work_sans/WorkSans-Italic-VariableFont_wght.woff);
+}
+
+html {
+  font-family: WorkSans;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+a {
+  font-size: 20px;
+}
+
+p {
+  font-size: 16px;
 }

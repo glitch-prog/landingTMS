@@ -49,7 +49,7 @@
   background: #fff7f4;
 }
 
-.hero_title {
+.hero__title {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -64,10 +64,34 @@
       -ms-flex-align: center;
           align-items: center;
   padding: 107px 0;
+  margin-bottom: 108px;
 }
 
-.hero_title h1 {
+.hero__title h1 {
   margin-bottom: 18px;
+}
+
+.button {
+  background: #ff5300;
+  color: #ffffff;
+  border: none;
+  padding: 16px 22px;
+  cursor: pointer;
+}
+
+.blog__posts {
+  max-width: 770px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.blog__posts__card:not(:last-child) {
+  margin-bottom: 60px;
 }
 
 html,
@@ -81,5 +105,26 @@ body {
 
 a {
   text-decoration: none;
+}
+
+@font-face {
+  font-family: 'Work Sans';
+  src: url(/assets/fonts/work_sans/WorkSans-Italic-VariableFont_wght.woff2), url(/assets/fonts/work_sans/WorkSans-Italic-VariableFont_wght.woff);
+}
+
+html {
+  font-family: WorkSans;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+a {
+  font-size: 20px;
+}
+
+p {
+  font-size: 16px;
 }
 /*# sourceMappingURL=main.css.map */
