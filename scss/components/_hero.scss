@@ -1,0 +1,15 @@
+.hero {
+  background: $pink;
+}
+
+.hero_title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 107px 0;
+}
+
+.hero_title h1 {
+  margin-bottom: 18px;
+}
