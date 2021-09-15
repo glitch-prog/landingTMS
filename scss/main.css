@@ -1,51 +1,15 @@
-@import url(d:\TeachMeSkills\html\task4\scss\components\wrapper.css);
-a {
-  font-family: Work Sans;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-}
-
-html,
-* {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
 .container {
-  width: 1050px;
+  max-width: 1050px;
   margin-left: auto;
   margin-right: auto;
 }
 
-a {
-  text-decoration: none;
-  color: #373737;
-}
-
-ul {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
-
-.header__logo {
-  padding-top: 26px;
-}
-
-.header__menu {
-  width: 525px;
-}
-
-.header__menu ul {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  list-style: none;
+html,
+*,
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 /*# sourceMappingURL=main.css.map */

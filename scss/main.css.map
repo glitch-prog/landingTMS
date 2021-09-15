@@ -1,20 +1,14 @@
 {
     "version": 3,
-    "mappings": "ASEA,OAAO,CAAP,4DAAO;APFP,AAAA,CAAC,CAAC;EACA,WAAW,EAAE,SAAS;EACtB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,SAAS,EAAE,IAAI;CAChB;;AKLD,AAAA,IAAI;AACJ,CAAC,CAAC;EACA,UAAU,EAAE,UAAU;EACtB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACX;;AGLD,AAAA,UAAU,CAAC;EACT,KAAK,EAAE,MAAM;EACb,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;CACnB;;ACJD,AAAA,CAAC,CAAC;EACA,eAAe,EAAE,IAAI;EACrB,KAAK,EPFC,OAAO;COGd;;AAED,AAAA,EAAE,CAAC;EACD,OAAO,EAAE,IAAI;CACd;;AAED,AAAA,aAAa,CAAC;EACZ,WAAW,EAAE,IAAI;CAClB;;AAED,AAAA,aAAa,CAAC;EACZ,KAAK,EAAE,KAAK;CACb;;AAED,AAAA,aAAa,CAAC,EAAE,CAAC;EACf,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,UAAU,EAAE,IAAI;CACjB",
+    "mappings": "AIAA,AAAA,UAAU,CAAC;EACT,SAAS,EAAE,MAAM;EACjB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;CACnB;;AEJD,AAAA,IAAI;AACJ,CAAC;AACD,IAAI,CAAC;EACH,UAAU,EAAE,UAAU;EACtB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACX",
     "sources": [
         "main.scss",
-        "abstracts/abstracts-dir.scss",
-        "abstracts/fonts.scss",
-        "abstracts/mixins.scss",
-        "abstracts/variables.scss",
-        "abstracts/functions.scss",
-        "base/base-dir.scss",
-        "base/global.scss",
-        "base/typography.scss",
-        "components/components-dir.scss",
-        "components/container.scss",
-        "components/list.scss",
-        "layouts/layouts-dir.scss"
+        "abstracts/_abstracts-dir.scss",
+        "abstracts/_variables.scss",
+        "components/_components-dir.scss",
+        "components/_container.scss",
+        "base/_base-dir.scss",
+        "base/_global.scss"
     ],
     "names": [],
     "file": "main.css"
