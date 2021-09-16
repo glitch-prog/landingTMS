@@ -1,0 +1,17 @@
+.blog__navbar__search {
+  max-width: 370px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #7b7b7b;
+  border-radius: 5px;
+  padding: 0 30px;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+}
+
+.blog__navbar__search input {
+  width: 316px;
+  height: 60px;
+  border: none;
+}

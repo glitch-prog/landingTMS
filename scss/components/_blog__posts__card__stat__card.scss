@@ -1,6 +1,8 @@
 .blog__posts__card__stat__card {
+  width: max-content;
   display: flex;
   text-align: center;
+  align-items: center;
 }
 
 .blog__posts__card__stat__card:not(:last-child) {
@@ -9,4 +11,9 @@
 
 .blog__posts__card__stat__card img {
   margin-right: 18px;
+}
+
+.blog__posts__card__stat__card p {
+  margin: 0;
+  padding: 0;
 }
