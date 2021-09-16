@@ -1,0 +1,19 @@
+.blog__navbar__rating__card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.blog__navbar__rating__card:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.blog__navbar__rating__card p {
+  width: 251px;
+  color: $black;
+  font-size: 20px;
+}
+
+.blog__navbar__rating__card img {
+  margin-right: 17px;
+}

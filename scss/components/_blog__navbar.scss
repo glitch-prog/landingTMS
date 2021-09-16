@@ -1,0 +1,25 @@
+.blog__navbar__search {
+  max-width: 370px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  padding: 0 30px;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 40px;
+}
+
+.blog__navbar__rating {
+  width: 370px;
+  height: auto;
+  padding: 40px 20px 61px 20px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+}
+
+.blog__navbar__rating > h4 {
+  font-size: 25px;
+  margin-bottom: 30px;
+}
