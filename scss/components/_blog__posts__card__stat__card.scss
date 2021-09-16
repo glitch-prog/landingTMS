@@ -1,0 +1,12 @@
+.blog__posts__card__stat__card {
+  display: flex;
+  text-align: center;
+}
+
+.blog__posts__card__stat__card:not(:last-child) {
+  margin-right: 30px;
+}
+
+.blog__posts__card__stat__card img {
+  margin-right: 18px;
+}
