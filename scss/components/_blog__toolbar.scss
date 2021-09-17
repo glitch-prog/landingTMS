@@ -1,0 +1,12 @@
+.btn__toolbar {
+  border: 1px solid $btn__clr;
+  background: transparent;
+  color: $btn__clr;
+  padding: 12px 15px;
+}
+
+.btn__toolbar:hover,
+.btn__toolbar:active {
+  background: $btn__clr;
+  color: #fff;
+}
